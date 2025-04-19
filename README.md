@@ -1,5 +1,4 @@
-# MITRE-ATT-CK-Extractor
-This project tackles these challenges head-on by leveraging Generative AI to extract ATT&amp;CK Tactics and Techniques from unstructured reports, offering actionable insights to reduce cyber risks.
+
 # Milestones Covered:
 Data Preprocessing: Jupyter Notebook is excellent for cleaning, tokenizing, and preparing datasets, ensuring this milestone is well underway.
 
